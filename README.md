@@ -38,7 +38,3 @@ This project creates a simple stream deck using the NX4024T032 Nextion 3.2 inch 
 ## Customization
 
 - You can modify the button actions in the `loop()` function of the Arduino code to perform different tasks as needed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
